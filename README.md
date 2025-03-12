@@ -22,7 +22,20 @@ The Dataset had details from the year 2013-2017
 
 ## Tools 
 1. SQL- Postgres - For Analysis
-[DOWNLOAD HERE](https://www.postgresql.org/download/windows/?authuser=1)
+[Download here](https://www.postgresql.org/download/windows/?authuser=1)
+2. Power BI- For Visualization
+[Download here](https://powerbi.microsoft.com/en-us/desktop/)
+
+## Exploratory Data Analysis
+The EDA involved exploring the Sales Data to answer key questions such as 
+1. What are the monthly trends?
+2. The periodic customer engagement on social platform
+3. Top Performing Customers
+4. Sales Representatives Performance
+
+My team and I  analyse the dataset and generate 10 insights which will aid data-driven decision making.
+
+   
 
 
 
