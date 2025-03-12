@@ -1,5 +1,19 @@
 # Capstone_Project_DA_Starter
 
+## Table of Content
+[Project Description](project-description)
+
+[Project Overview](project-overview)
+
+[Data Source](data-source)
+
+[Tools](tools)
+
+[Exploratory Data Analysis](exploratory-data-analysis)
+
+---
+
+
 ## Project Description
 A group project after a Data Analysis Course offered by Hertechtrail Academy. I collaborated with my teammates as newly employed data analysts, we accessed the company’s database(using SQL), analyse the dataset and generate 10 insights which will aid data-driven decision
 *Disclaimer: The dataset used and its application case are fictional, however, they mirror real life scenarios and problems which can be faced by real life data analysts in real life companies.*
@@ -51,10 +65,11 @@ Using SQL, we answered the following questions. [see code here](}
 
  ## Recommendations
  To sustain growth and improve overall performance, Parch and Posey should focus on 
- 1. Enhance  customer retention through loyalty programs, personalized offers, and targeted follow-ups.
- 2. Strengthening top-performing sales channels, like Direct sales, while optimizing underperforming ones, such as Banners and Twitter, will ensure a more efficient sales strategy.
- 3. Additionally, expanding customer base within high-value industries such as Technology, Oil & Gas, and Finance in the Northeast can drive further revenue growth.
- 4. Lastly, aligning marketing and inventory strategies with seasonal demand trends will maximize revenue opportunities throughout the year.
+ 1. Enhancing  customer retention through loyalty programs, personalized offers, and targeted follow-ups.
+ 2. Investing in mentorship programs for top-performing sales reps will help scale success across the team
+ 3. Strengthening top-performing sales channels, like Direct sales, while optimizing underperforming ones, such as Banners and Twitter, will ensure a more efficient sales strategy.
+ 4. Additionally, expanding customer base within high-value industries such as Technology, Oil & Gas, and Finance in the Northeast can drive further revenue growth.
+ 5. Lastly, aligning marketing and inventory strategies with seasonal demand trends will maximize revenue opportunities throughout the year.
 
 
 
