@@ -45,6 +45,10 @@ Using SQL, we answered the following questions. [see code here](}
  5. The Highest Performing Channel is the Direct Channel while Twitter and Banner are the least performing Channels
  6. Standard paper type has maintained an increasing rise in revenue generation over the years and poster paper type brings the least revenue for the company.
 
+## Visualization/Insights
+![parch and posey power bi](https://github.com/user-attachments/assets/9f261410-29e9-4779-ba66-89b112523a96)
+
+
  ## Recommendations
  To sustain growth and improve overall performance, Parch and Posey should focus on 
  1. Enhance  customer retention through loyalty programs, personalized offers, and targeted follow-ups.
