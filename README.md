@@ -50,9 +50,9 @@ The EDA involved exploring the Sales Data to answer key questions such as
 My team and I  analyse the dataset and generate 10 insights which will aid data-driven decision making.
 
 Using SQL, we answered the following questions. 
-[View Database Schema](https://github.com/Ebubejen/Capstone_Project_DA_Starter/blob/main/HTT-Group-5-Capstone-Project.sql)
+[View Database Schema](https://github.com/Ebubejen/Capstone_Project_DA_Starter/blob/main/Parch%20and%20Posey%20Schema.docx)
 
-[Download SQL Code](https://github.com/your-username/your-repo/blob/main/queries.sql)
+[Download SQL Code](https://github.com/your-username/your-repo/blob/main/HTT-Group-5-Capstone-Project.sql)
 
 
 ## Results/ Findings
