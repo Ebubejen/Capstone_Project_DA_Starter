@@ -47,12 +47,11 @@ The EDA involved exploring the Sales Data to answer key questions such as
 3. Top Performing Customers
 4. Sales Representatives Performance
 
-My team and I  analyse the dataset and generate 10 insights which will aid data-driven decision making.
+My team and I  analyse the dataset and generated 10 insights which will aid data-driven decision making.
 
-Using SQL, we answered the following questions. 
 [View Database Schema](https://github.com/Ebubejen/Capstone_Project_DA_Starter/blob/main/Parch%20and%20Posey%20Schema.docx)
 
-[Download SQL Code](https://github.com/your-username/your-repo/blob/main/HTT-Group-5-Capstone-Project.sql)
+[Download SQL Code](https://github.com/Ebubejen/Capstone_Project_DA_Starter/blob/main/HTT%20Group%205%20Capstone%20Project.sql)
 
 
 ## Results/ Findings
